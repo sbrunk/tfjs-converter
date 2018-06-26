@@ -4,7 +4,6 @@ package-lock.json
 npm-debug.log
 yarn-error.log
 .DS_Store
-dist/
 .idea/
 *.tgz
 .cache
@@ -13,5 +12,4 @@ package/
 bazel-*
 
 *.pyc
-dist-es6/
 .rpt2_cache/
